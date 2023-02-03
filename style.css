@@ -7,7 +7,7 @@ html,body{
 .banner{
    
     width: 100vw;
-    height: 600px;
+    height: 100vh;
     background-image:url(images/man-holding-pile-clean-clothes.jpg);
     background-size: cover;
 }
